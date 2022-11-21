@@ -1,6 +1,6 @@
 # React's useReducer Hook
 
-A hook for managing more complex state. 
+A React hook for managing more complex state. 
 
 ## Objectives
 
