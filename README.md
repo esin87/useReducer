@@ -245,3 +245,4 @@ What are some of the ways that `useReducer` is different from `useState`?
 - Try out some `useReducer` [challenges](https://beta.reactjs.org/learn/extracting-state-logic-into-a-reducer#challenges)
 - [Kent C. Dodds on useReducer](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
 - [Dmitri Pavlutin on useReducer](https://dmitripavlutin.com/react-usereducer/)
+- `useReducer` can be used to more concisely manage the state of API calls. Here is an [example](https://github.com/esin87/react-api-state-with-usereducer/blob/main/src/components/SearchWithReducer.js)
